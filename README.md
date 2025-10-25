@@ -1,56 +1,45 @@
-<h1 align="center">Hi there! 👋 I'm Hayrunnisa</h1>
-<h3 align="center">I'm a Computer Engineering Student</h3>
+<h1 align="center">Hi! I'm Hayrunnisa 👋</h1>
 
-<p align="left">
-  Hello, I'm Hayrunnisa. I live in Turkey. I have a passion for technology and mobile app development.
-  
+<p align="center">
+  I am a strong interest in software development. I enjoy working on full-stack projects, databases, and machine learning applications, where I
+can both learn and apply my knowledge. 
+</p>  
+
+---
+#### 💻​​ About Me
+
   - 🌱 I’m currently learning React Native.
   - 🎓 I am a student Computer Engineering at Istanbul Topkapı University.
   - 💬 Ask me about my project.
   - 📫 How to reach me: hayrunnisayoltan@gmail.com
-</p>
 
 ---
 
-<h3 align="left">Technologies & Tools I Use:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  </p>
+#### ⚙️ Tech Stack
+
+#### 💻​​ Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+
+#### ⚙️ Tools and Technologies
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
 ---
 
-<h3 align="left">My GitHub Stats</h3>
+#### 📊 GitHub Stats
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hayrunnisaylt&show_icons=true&theme=radical" alt="hayrunnisaylt's GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayrunnisaylt&layout=compact&theme=radical" alt="hayrunnisaylt's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hayrunnisaylt&show_icons=true&theme=radical" alt="hayrunnisaylt's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayrunnisaylt&layout=compact&theme=radical" alt="hayrunnisaylt's Top Languages" />
 </p>
 
 ---
 
-<h3 align="left">Get in Touch:</h3>
-<p align="left">
-  <a href="www.linkedin.com/in/hayrunnisa-yoltan-5a729a253" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-</p>
+#### 📫 Let's Connect
+
+-✉️ Email: [hayrunnisayoltan@gmail.com](mailto: hayrunnisayoltan@gmail.com)
+-💼 [LinkedIn](www.linkedin.com/in/hayrunnisa-yoltan-5a729a253)
