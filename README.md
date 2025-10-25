@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Hayrunnisa</h1>
-<h3 align="center">I'm a [Your Role, e.g., Software Developer, Student...]</h3>
+<h3 align="center">I'm a Computer Engineering Student</h3>
 
 <p align="left">
   Hello, I'm Hayrunnisa. I live in Turkey. I have a passion for technology and mobile app development.
