@@ -41,5 +41,5 @@ can both learn and apply my knowledge.
 
 #### 📫 Let's Connect
 
--✉️ Email: [hayrunnisayoltan@gmail.com](mailto: hayrunnisayoltan@gmail.com)
+-✉️ Email: hayrunnisayoltan@gmail.com
 -💼 [LinkedIn](www.linkedin.com/in/hayrunnisa-yoltan-5a729a253)
